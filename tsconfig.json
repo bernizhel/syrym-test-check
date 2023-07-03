@@ -14,5 +14,6 @@
     "compilerOptions": {
       "module": "CommonJS"
     }
-  }
+  },
+  "types": ["node", "jest", "@testing-library/jest-dom"]
 }

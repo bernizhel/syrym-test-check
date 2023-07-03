@@ -1,8 +1,8 @@
 import React from "react";
 import { render } from "@testing-library/react";
 const { assert } = require("chai");
-const { setupServer } = require("msw/node");
-const { rest } = require("msw");
+// const { setupServer } = require("msw/node");
+// const { rest } = require("msw");
 
 describe("Simple Test Case", () => {
   it("Should return 4", () => {
